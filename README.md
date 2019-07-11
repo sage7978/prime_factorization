@@ -1,2 +1,3 @@
 # prime_factorization
 simplest c++ code to get factors of prime of numbers
+I always try to do something new. So here it goes. My code shown here is completely made by me. It is so simple like sipping a cup of tea. So guys, you will understand this code very easily. If you find any trouble understanding or if you are a newbie, you can paste your question in wiki page. After all, people here arriving just out of curiosity, you can also answer the questions asked in wiki page. Welcome everyone. SIGNING OFF, sage7978................................... 
